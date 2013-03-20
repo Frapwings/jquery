@@ -1,0 +1,16 @@
+{
+  "name": "jquery",
+  "repo": "Frapwings/jquery",
+  "description": "jQuery for component",
+  "version": "1.9.1",
+  "keywords": [
+    "jquery",
+    "component"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}
